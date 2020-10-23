@@ -1,2 +1,1 @@
-# Import utm 
-import utm as utm
+from utm.utm import utm as utm

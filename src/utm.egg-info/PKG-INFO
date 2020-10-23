@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: utm
+Version: 0.0.1
+Summary: Python library for conversions between Latitude, Longitude, and Height and NED/ENU (in meters).
+Home-page: https://github.com/gchustz/utm
+Author: George Chustz
+Author-email: gchustz@tamu.edu
+License: UNKNOWN
+Description: # utm
+        Python library for conversions between Latitude, Longitude, and Height and NED/ENU (in meters). Mainly for reference; was used successfully in the field..
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
